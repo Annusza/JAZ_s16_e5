@@ -1,5 +1,9 @@
 package domain;
-
+/**
+ * samochod
+ * @author Ania
+ *
+ */
 public class Car {
 
 	private int id;
